@@ -26,3 +26,7 @@ AutoHotkey on [GitHub](https://github.com/Lexikos/AutoHotkey_L)
 **Question:** This Script does not detect osu!.  
 **Reason:** By default, osu! is installed in the following locations: "C:\Users\<Username>\AppData\Local\osu!\". But it can also be installed somewhere else.  
 **Answer:** Open the Script with Notepad (I prefer Notepad++) and fill the osu! installation path in the brakets (e.g. `OSU_PATH := "D:\somewhere_else\games\osu!"`)
+
+
+## Donation
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square)](https://streamelements.com/tipsy_css/tip)
