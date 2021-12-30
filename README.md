@@ -29,4 +29,4 @@ AutoHotkey on [GitHub](https://github.com/Lexikos/AutoHotkey_L)
 
 
 ## Donation
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square)](https://streamelements.com/tipsy_css/tip)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square)](https://streamelements.com/tipsy_css/tip) As long as I am healthy and fit, donations are not needed, but I am happy about every cent.
